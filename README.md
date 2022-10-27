@@ -1,3 +1,5 @@
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQHGgIXQuqwNgg/profile-displaybackgroundimage-shrink_350_1400/0/1625230537927?e=1672272000&v=beta&t=t7Zn8bch0nwOCEtbs-CbcAB71M2aXbFkVQ03Dwl44xc" />
+
 # Hey there, I am Abhijnan Bajpai <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 I'm a Computer Science Student pursuing my B.Tech from PES University, India. My ever-growing areas of interest include Blockchains, Machine Learning and Natural Language Processing.
