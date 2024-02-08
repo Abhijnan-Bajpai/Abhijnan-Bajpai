@@ -1,8 +1,8 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQHGgIXQuqwNgg/profile-displaybackgroundimage-shrink_350_1400/0/1625230537927?e=1672272000&v=beta&t=t7Zn8bch0nwOCEtbs-CbcAB71M2aXbFkVQ03Dwl44xc" />
+<img src="https://media.licdn.com/dms/image/C5616AQHGgIXQuqwNgg/profile-displaybackgroundimage-shrink_350_1400/0/1625230538642?e=1712793600&v=beta&t=-gWDqm7ITBD42ui3P5LlMfLjF6vhAbkKsovDkyscDi0" />
 
-# Hey there, I am Abhijnan Bajpai <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Hey there! I am Abhijnan Bajpai <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-I'm a Computer Science Student pursuing my B.Tech from PES University, India. My ever-growing areas of interest include Blockchains, Machine Learning and Natural Language Processing.
+I'm a Software Developer working for Cisco. My ever-growing areas of interest include Blockchains, Distributed and Embedded Systems, and Natural Language Processing.
 
 ## 👨‍💻 Languages
 <a href="https://www.python.org/"><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" /></a>
